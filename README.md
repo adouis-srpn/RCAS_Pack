@@ -16,11 +16,6 @@ Finally, hint
       
 	That's all, Thank you.
 
-
-
-
-
-
 Authors：
       Director: adouis_srpn
       Custodian: the Education Department of Guangxi zhuang aotonomy area
