@@ -12,7 +12,7 @@ Second, This mod is free, any organisation or work unit or individual DOU'T allo
 
 This mod havn't any spill national secret.
 
-This content of mod all base every group student's fancy.
+This content of mod all base every group student's imagine.
   
 Finally, hint
 
@@ -20,13 +20,13 @@ I suggest you use "Advanced Settings/Auto Hardening" that it can steady craft bo
 
 Hand-action install:
 
-1、Delete erstwhile "RealChinasProbeExplore" File ,if you havn't install it, please ignore.
+1、Delete erstwhile "RealChinasProbeExplore" or "RealChinasAstronomySatellitePack" File ,if you havn't install it, please ignore.
 
-2、Download new package from Spacedock, move new file of "RealChinasProbeExplore" to "Gamedata" , finished.
+2、Download new package from Spacedock, move new file of "RealChinasAstronomySatellitePack" to "Gamedata" , finished.
 
 use CKAN to install:
 
-search for "RCPE" , find "RCPE_Real China's Probe Explore" and install it.
+search for "RCAS" , find "RCAS_Real China's Astronomy Satellite Pack" and install it.
 
 That's all, Thank you.
 
