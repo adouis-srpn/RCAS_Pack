@@ -40,6 +40,6 @@ Authors：
 
 Director: adouis_srpn
 
-Custodian: China National Space Administration ，the Education Department of Guangxi zhuang autonomy area
+Custodian: China National Space Administration ，the Education Department of Guangxi zhuang autonomy region
 
-Work Unit of Join: Chinese Academy of Sciences ， the Committee of Communist Youth League of Guangxi zhuang autonomy area , Star Pavillion
+Work Unit of Join: Chinese Academy of Sciences ， Central Committee of the Communist Youth League , Star Pavillion
